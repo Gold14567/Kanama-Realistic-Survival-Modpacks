@@ -1,0 +1,5 @@
+{
+  "vanilla": "https://example.com/vanilla_modpack.zip",
+  "modrinth": "https://example.com/modrinth_modpack.zip",
+  "curseforge": "https://example.com/curseforge_modpack.zip"
+}
